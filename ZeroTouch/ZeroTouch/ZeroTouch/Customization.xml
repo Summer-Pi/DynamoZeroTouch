@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<doc>
+  <assembly>
+    <name>ZeroTouch</name>
+  </assembly>
+  <namespaces>
+    <namespace name="ZeroTouch">
+      <category>ZeroTouch</category>
+    </namespace>
+  </namespaces>
+</doc>

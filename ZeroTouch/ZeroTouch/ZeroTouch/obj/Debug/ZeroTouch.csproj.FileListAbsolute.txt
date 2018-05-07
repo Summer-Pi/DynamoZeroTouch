@@ -1,0 +1,5 @@
+D:\DynamoTutorial\ZeroTouch\ZeroTouch\ZeroTouch\bin\Debug\ZeroTouch.dll
+D:\DynamoTutorial\ZeroTouch\ZeroTouch\ZeroTouch\bin\Debug\ZeroTouch.pdb
+D:\DynamoTutorial\ZeroTouch\ZeroTouch\ZeroTouch\obj\Debug\ZeroTouch.csprojResolveAssemblyReference.cache
+D:\DynamoTutorial\ZeroTouch\ZeroTouch\ZeroTouch\obj\Debug\ZeroTouch.dll
+D:\DynamoTutorial\ZeroTouch\ZeroTouch\ZeroTouch\obj\Debug\ZeroTouch.pdb
